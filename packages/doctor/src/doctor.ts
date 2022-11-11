@@ -1,5 +1,5 @@
 export class Doctor {
-  get(id) {
-    return {};
+  sayHello() {
+    console.log("Im a doctor");
   }
 }

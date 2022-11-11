@@ -1,3 +1,5 @@
 import { Doctor } from "@hospital-sdk/doctor";
 
-console.log(new Doctor());
+
+const doctor = new Doctor();
+doctor.sayHello();
