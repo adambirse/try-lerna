@@ -1,5 +1,5 @@
 {
-  "name": "integration",
+  "name": "@hospital-sdk/integration",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
