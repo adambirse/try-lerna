@@ -10,6 +10,6 @@
     "typescript": "^4.8.4"
   },
   "scripts": {
-    "publish": "lerna run test && lerna run tsc && lerna publish"
+    "publish": "lerna run tsc && lerna publish"
   }
 }
