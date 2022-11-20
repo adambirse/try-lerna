@@ -17,6 +17,9 @@
     "type": "git",
     "url": "git+https://github.com/adambirse/try-lerna.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "tsc": "tsc",
     "test": "jest"
