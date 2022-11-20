@@ -1,5 +1,5 @@
 {
-  "name": "@hospital-sdk/integration",
+  "name": "@adambirse123/integration",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,8 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hospital-sdk/doctor": "^0.0.0",
-    "@hospital-sdk/patient": "^0.0.0",
+    "@adambirse123/doctor": "^0.0.0",
+    "@adambirse123/patient": "^0.0.0",
     "ts-node": "^10.9.1"
   }
 }

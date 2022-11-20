@@ -14,8 +14,8 @@
 
 Currently no tests for integration so specify scope
 
-    lerna run test --scope=@hospital-sdk/doctor
+    lerna run test --scope=@adambirse123/doctor
 
 ### Run integration
 
-    lerna run start --scope=@hospital-sdk/integration
+    lerna run start --scope=@adambirse123/integration

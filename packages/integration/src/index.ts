@@ -1,5 +1,5 @@
-import { Doctor } from "@hospital-sdk/doctor";
-import { Patient } from "@hospital-sdk/patient";
+import { Doctor } from "@adambirse123/doctor";
+import { Patient } from "@adambirse123/patient";
 
 const doctor = new Doctor();
 console.log(doctor.sayHello());
