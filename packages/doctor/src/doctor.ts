@@ -1,5 +1,5 @@
 export class Doctor {
   sayHello() {
-    return "Im a doctor";
+    return "Im a doctor.";
   }
 }
