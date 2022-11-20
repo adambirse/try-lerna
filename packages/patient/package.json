@@ -1,0 +1,33 @@
+{
+  "name": "@hospital-sdk/patient",
+  "version": "0.0.0",
+  "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
+  "keywords": [],
+  "author": "Adam Birse <adambirse@gmail.com>",
+  "license": "ISC",
+  "main": "lib/patient.js",
+  "typings": "lib/patient.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adambirse/try-lerna.git"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "test": "jest"
+  },
+  "bugs": {
+    "url": "https://github.com/adambirse/try-lerna/issues"
+  },
+  "homepage": "https://github.com/adambirse/try-lerna#readme",
+  "dependencies": {
+    "@types/jest": "^29.2.2",
+    "jest": "^29.3.1",
+    "ts-jest": "^29.0.3"
+  }
+}

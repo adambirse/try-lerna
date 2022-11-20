@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@hospital-sdk/doctor": "^0.0.0",
+    "@hospital-sdk/patient": "^0.0.0",
     "ts-node": "^10.9.1"
   }
 }
