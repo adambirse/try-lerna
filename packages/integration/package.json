@@ -12,8 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@adambirse123/doctor": "^0.0.0",
-    "@adambirse123/patient": "^0.0.0",
+    "@adambirse123/doctor": "^1.0.0",
+    "@adambirse123/patient": "^1.0.0",
     "ts-node": "^10.9.1"
   }
 }
